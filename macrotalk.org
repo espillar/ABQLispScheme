@@ -1,0 +1,17 @@
+* Intro slide
+* Show the video for the Land of Lisp book 
+Might as well have a little fun!
+* Simple example of macros in common lisp
+- Basic description of what they do
+- first, just a simple transformation demonstration
+- Slides on the "special chracaters" that simplify
+* More complex macros in lisp
+- variable capture
+- How it can be bad
+- how it can be good
+* When to use and not to use macros
+- an example of a dsl?
+* Macros in scheme
+- basic macros
+- Hygenic macros
+- is there anything to be said about R6RS macros? Are they different?
