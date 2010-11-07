@@ -13,5 +13,5 @@ Might as well have a little fun!
 - an example of a dsl?
 * Macros in scheme
 - basic macros
-- Hygenic macros
+- hygenic macros
 - is there anything to be said about R6RS macros? Are they different?
